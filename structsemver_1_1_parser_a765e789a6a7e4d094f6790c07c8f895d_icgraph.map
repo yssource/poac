@@ -1,0 +1,4 @@
+<map id="semver::Parser::or_range" name="semver::Parser::or_range">
+<area shape="rect" id="node1" title="Parse an optional or separator ||, then if that is present a range." alt="" coords="233,5,360,47"/>
+<area shape="rect" id="node2" href="$structsemver_1_1_parser.html#a2a4f551687f4efbc8d803e3c14a4ab71" title=" " alt="" coords="5,13,185,39"/>
+</map>

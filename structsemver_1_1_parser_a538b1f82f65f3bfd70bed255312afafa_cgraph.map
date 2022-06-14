@@ -1,0 +1,11 @@
+<map id="semver::Parser::skip_whitespace" name="semver::Parser::skip_whitespace">
+<area shape="rect" id="node1" title="Skip whitespace if present." alt="" coords="5,42,144,83"/>
+<area shape="rect" id="node2" href="$namespacesemver.html#a766a799f912dc86e7a5d8d76cfc3ecc4" title=" " alt="" coords="573,5,727,32"/>
+<area shape="rect" id="node3" href="$structsemver_1_1_parser.html#ac8be107cf6606679cf2de33c3ea5abdd" title="Peek one token." alt="" coords="192,49,335,76"/>
+<area shape="rect" id="node4" href="$structsemver_1_1_parser.html#a902d05b73cda1215596cdec164c6339f" title="Pop one token." alt="" coords="195,100,331,127"/>
+<area shape="rect" id="node5" href="$classsemver_1_1_lexer.html#a518d61eef5d8932cca195a5f3ed02b14" title=" " alt="" coords="383,75,516,101"/>
+<area shape="rect" id="node6" href="$namespacesemver.html#aff28595f781a3e4ca791deea8a3327a7" title=" " alt="" coords="564,68,736,95"/>
+<area shape="rect" id="node9" href="$classsemver_1_1_lexer.html#ac89b0fd3d04b428f0365715ee5068268" title=" " alt="" coords="584,119,716,145"/>
+<area shape="rect" id="node7" href="$namespacesemver.html#a4b2ac113bc876a920af95f58dbb11c72" title=" " alt="" coords="784,43,921,69"/>
+<area shape="rect" id="node8" href="$namespacesemver.html#a93fddc7c9cd5c4cc56434ccaf2fef1cc" title=" " alt="" coords="797,93,909,120"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="semver::Parser::plus_build_metadata" name="semver::Parser::plus_build_metadata">
+<area shape="rect" id="node1" title=" " alt="" coords="5,125,144,166"/>
+<area shape="rect" id="node2" href="$structsemver_1_1_parser.html#a1714c745b1804fe1ef7e225ac3c1f715" title="Parse a dot&#45;separated set of identifiers." alt="" coords="192,81,336,108"/>
+<area shape="rect" id="node4" href="$structsemver_1_1_parser.html#a902d05b73cda1215596cdec164c6339f" title="Pop one token." alt="" coords="595,81,731,108"/>
+<area shape="rect" id="node11" href="$structsemver_1_1_parser.html#ac8be107cf6606679cf2de33c3ea5abdd" title="Peek one token." alt="" coords="394,132,537,159"/>
+<area shape="rect" id="node3" href="$structsemver_1_1_parser.html#a9fea92b2d9fca65cc8439dfa82bb3ace" title=" " alt="" coords="384,31,547,57"/>
+<area shape="rect" id="node5" href="$classsemver_1_1_lexer.html#a518d61eef5d8932cca195a5f3ed02b14" title=" " alt="" coords="779,81,912,108"/>
+<area shape="rect" id="node6" href="$namespacesemver.html#aff28595f781a3e4ca791deea8a3327a7" title=" " alt="" coords="960,31,1132,57"/>
+<area shape="rect" id="node9" href="$namespacesemver.html#a766a799f912dc86e7a5d8d76cfc3ecc4" title=" " alt="" coords="969,81,1123,108"/>
+<area shape="rect" id="node10" href="$classsemver_1_1_lexer.html#ac89b0fd3d04b428f0365715ee5068268" title=" " alt="" coords="980,132,1112,159"/>
+<area shape="rect" id="node7" href="$namespacesemver.html#a4b2ac113bc876a920af95f58dbb11c72" title=" " alt="" coords="1180,5,1317,32"/>
+<area shape="rect" id="node8" href="$namespacesemver.html#a93fddc7c9cd5c4cc56434ccaf2fef1cc" title=" " alt="" coords="1193,56,1305,83"/>
+</map>

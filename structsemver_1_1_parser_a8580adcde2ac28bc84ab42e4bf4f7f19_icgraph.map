@@ -1,0 +1,8 @@
+<map id="semver::Parser::is_eof" name="semver::Parser::is_eof">
+<area shape="rect" id="node1" title="Check if we have reached the end of input." alt="" coords="1025,42,1176,69"/>
+<area shape="rect" id="node2" href="$structsemver_1_1_parser.html#ae948e4a673beee065c73b9fc16709ca5" title=" " alt="" coords="809,42,977,69"/>
+<area shape="rect" id="node3" href="$structsemver_1_1_parser.html#a103a55e5cffccb3191c6bf8a38623b8d" title="Parse an optional comma separator, then if that is present a predicate." alt="" coords="603,5,761,47"/>
+<area shape="rect" id="node4" href="$structsemver_1_1_parser.html#a9d82b3643397996bc3db1c191308b9fb" title=" " alt="" coords="408,42,555,69"/>
+<area shape="rect" id="node5" href="$structsemver_1_1_parser.html#a2a4f551687f4efbc8d803e3c14a4ab71" title=" " alt="" coords="5,42,185,69"/>
+<area shape="rect" id="node6" href="$structsemver_1_1_parser.html#a765e789a6a7e4d094f6790c07c8f895d" title="Parse an optional or separator ||, then if that is present a range." alt="" coords="233,64,360,105"/>
+</map>

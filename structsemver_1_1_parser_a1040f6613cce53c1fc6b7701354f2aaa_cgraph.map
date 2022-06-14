@@ -1,0 +1,10 @@
+<map id="semver::Parser::numeric" name="semver::Parser::numeric">
+<area shape="rect" id="node1" title="Parse a single numeric." alt="" coords="5,81,167,108"/>
+<area shape="rect" id="node2" href="$structsemver_1_1_parser.html#a902d05b73cda1215596cdec164c6339f" title="Pop one token." alt="" coords="215,81,351,108"/>
+<area shape="rect" id="node3" href="$classsemver_1_1_lexer.html#a518d61eef5d8932cca195a5f3ed02b14" title=" " alt="" coords="399,81,532,108"/>
+<area shape="rect" id="node4" href="$namespacesemver.html#aff28595f781a3e4ca791deea8a3327a7" title=" " alt="" coords="580,31,752,57"/>
+<area shape="rect" id="node7" href="$namespacesemver.html#a766a799f912dc86e7a5d8d76cfc3ecc4" title=" " alt="" coords="589,81,743,108"/>
+<area shape="rect" id="node8" href="$classsemver_1_1_lexer.html#ac89b0fd3d04b428f0365715ee5068268" title=" " alt="" coords="600,132,732,159"/>
+<area shape="rect" id="node5" href="$namespacesemver.html#a4b2ac113bc876a920af95f58dbb11c72" title=" " alt="" coords="800,5,937,32"/>
+<area shape="rect" id="node6" href="$namespacesemver.html#a93fddc7c9cd5c4cc56434ccaf2fef1cc" title=" " alt="" coords="813,56,925,83"/>
+</map>

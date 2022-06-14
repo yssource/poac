@@ -1,0 +1,52 @@
+<map id="semver::is_whitespace" name="semver::is_whitespace">
+<area shape="rect" id="node1" title=" " alt="" coords="3691,137,3845,164"/>
+<area shape="rect" id="node2" href="$classsemver_1_1_lexer.html#a518d61eef5d8932cca195a5f3ed02b14" title=" " alt="" coords="3509,163,3643,189"/>
+<area shape="rect" id="node49" href="$structsemver_1_1_parser.html#a538b1f82f65f3bfd70bed255312afafa" title="Skip whitespace if present." alt="" coords="3119,22,3257,63"/>
+<area shape="rect" id="node3" href="$structsemver_1_1_parser.html#a902d05b73cda1215596cdec164c6339f" title="Pop one token." alt="" coords="3325,240,3461,267"/>
+<area shape="rect" id="node50" href="$structsemver_1_1_parser.html#a795be2e68aae81b134b9b790882b6160" title=" " alt="" coords="3327,163,3459,189"/>
+<area shape="rect" id="node4" href="$structsemver_1_1_parser.html#a6eb1a80d98918b279f6c4e17aa2bcfa8" title=" " alt="" coords="3099,189,3277,216"/>
+<area shape="rect" id="node5" href="$structsemver_1_1_parser.html#ae3bdf7c2cc400ddc42bd328fcc241f50" title=" " alt="" coords="2912,131,3045,173"/>
+<area shape="rect" id="node11" href="$structsemver_1_1_parser.html#a83c0e0974c5424ec72ad341bf46da041" title="Parse a dot, then a numeric." alt="" coords="2912,439,3045,481"/>
+<area shape="rect" id="node43" href="$structsemver_1_1_parser.html#a9fea92b2d9fca65cc8439dfa82bb3ace" title=" " alt="" coords="3107,291,3269,317"/>
+<area shape="rect" id="node44" href="$structsemver_1_1_parser.html#a1714c745b1804fe1ef7e225ac3c1f715" title="Parse a dot&#45;separated set of identifiers." alt="" coords="2907,323,3051,349"/>
+<area shape="rect" id="node45" href="$structsemver_1_1_parser.html#a35b4ab644010f8864ef0a0cd35137c3b" title=" " alt="" coords="2720,253,2859,294"/>
+<area shape="rect" id="node46" href="$structsemver_1_1_parser.html#ac3d15f02b9d654199b5fff933a85825f" title=" " alt="" coords="2723,323,2856,349"/>
+<area shape="rect" id="node47" href="$structsemver_1_1_parser.html#a1040f6613cce53c1fc6b7701354f2aaa" title="Parse a single numeric." alt="" coords="3107,493,3269,520"/>
+<area shape="rect" id="node48" href="$structsemver_1_1_parser.html#a13346814262476dde329e6225d3f710d" title=" " alt="" coords="2914,29,3043,56"/>
+<area shape="rect" id="node6" href="$structsemver_1_1_parser.html#ae948e4a673beee065c73b9fc16709ca5" title=" " alt="" coords="2504,197,2672,224"/>
+<area shape="rect" id="node7" href="$structsemver_1_1_parser.html#a103a55e5cffccb3191c6bf8a38623b8d" title="Parse an optional comma separator, then if that is present a predicate." alt="" coords="2297,219,2456,261"/>
+<area shape="rect" id="node8" href="$structsemver_1_1_parser.html#a9d82b3643397996bc3db1c191308b9fb" title=" " alt="" coords="2066,183,2213,209"/>
+<area shape="rect" id="node9" href="$structsemver_1_1_parser.html#a2a4f551687f4efbc8d803e3c14a4ab71" title=" " alt="" coords="1564,168,1744,195"/>
+<area shape="rect" id="node10" href="$structsemver_1_1_parser.html#a765e789a6a7e4d094f6790c07c8f895d" title="Parse an optional or separator ||, then if that is present a range." alt="" coords="1823,190,1950,231"/>
+<area shape="rect" id="node12" href="$structsemver_1_1_parser.html#a928170d4a3989f24f7fc83f0f15dafd1" title=" " alt="" coords="2509,323,2667,349"/>
+<area shape="rect" id="node13" href="$namespacesemver.html#a3db6fc59585d6cae580fb54e51d52a90" title=" " alt="" coords="2325,639,2428,665"/>
+<area shape="rect" id="node14" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#a46b511311f5dcd34e7777f3b6e506cc2" title=" " alt="" coords="2029,504,2249,560"/>
+<area shape="rect" id="node29" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#afb1255b53fdfa63e7036e44c78040641" title=" " alt="" coords="2048,584,2231,640"/>
+<area shape="rect" id="node33" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#a6fe6a1f712231c9a6a7e2552af95a8fc" title=" " alt="" coords="2048,664,2231,720"/>
+<area shape="rect" id="node37" href="$version_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="2114,744,2165,771"/>
+<area shape="rect" id="node38" href="$namespacesemver.html#a3d48070baeb7596ad8f71541f49e8112" title=" " alt="" coords="2072,795,2207,821"/>
+<area shape="rect" id="node39" href="$namespacesemver.html#a68b407eecedc5e1a7c93a0f8c94d3688" title=" " alt="" coords="2076,845,2203,872"/>
+<area shape="rect" id="node40" href="$namespacepoac_1_1core_1_1validator.html#a7eda4f42d146a2f6bd73075921e4a098" title=" " alt="" coords="2071,387,2207,429"/>
+<area shape="rect" id="node15" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#a64b9ee0dc09150a381904d6a3878e937" title=" " alt="" coords="1792,504,1981,560"/>
+<area shape="rect" id="node28" href="$tests_2unit_2core_2builder_2compiler_2cxx_2apple__clang_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="1861,453,1912,480"/>
+<area shape="rect" id="node16" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#ae117ac30a553ed265fee6face945a0b8" title=" " alt="" coords="1585,504,1723,560"/>
+<area shape="rect" id="node17" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#a017add220f93c3ed58a152e6d0940de1" title=" " alt="" coords="1389,580,1516,636"/>
+<area shape="rect" id="node18" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#ad3611297d7c7df837d85118940984af8" title=" " alt="" coords="1215,576,1341,632"/>
+<area shape="rect" id="node19" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1manifest.html#afe2d7eac029690d74c199acceb2b1e94" title=" " alt="" coords="996,482,1167,523"/>
+<area shape="rect" id="node20" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1manifest.html#ad20959d08fc4770a5a7ab131cb43c408" title=" " alt="" coords="795,431,948,473"/>
+<area shape="rect" id="node21" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1build.html#ac7d00737fc5880d1eb2fc32712e2373b" title=" " alt="" coords="621,406,747,447"/>
+<area shape="rect" id="node22" href="$namespacepoac_1_1cmd_1_1build.html#aedae7e956818354e7f834af8abd8889e" title=" " alt="" coords="395,343,573,369"/>
+<area shape="rect" id="node26" href="$namespacepoac_1_1core_1_1resolver.html#a12aa7c0afdc3182fe24c816364332219" title=" " alt="" coords="395,406,573,447"/>
+<area shape="rect" id="node23" href="$namespacepoac_1_1cmd_1_1build.html#ae1119d4279f63754f9bb26e0f4c58383" title=" " alt="" coords="200,329,347,356"/>
+<area shape="rect" id="node24" href="$namespacepoac_1_1cmd_1_1build.html#aa4ff0345299c9523acbb5de594ef0710" title=" " alt="" coords="5,300,152,327"/>
+<area shape="rect" id="node25" href="$namespacepoac_1_1cmd_1_1publish.html#a92eac6f01ff2ea5f022d191623b9679a" title=" " alt="" coords="15,351,143,393"/>
+<area shape="rect" id="node27" href="$namespacepoac_1_1core_1_1resolver.html#a4920d29dd6d001a8993ca44adc2e857f" title=" " alt="" coords="206,406,341,447"/>
+<area shape="rect" id="node30" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#aac6fb1da9785ab4725d13bea144c7399" title=" " alt="" coords="1811,584,1962,640"/>
+<area shape="rect" id="node32" href="$tests_2unit_2core_2builder_2compiler_2cxx_2clang_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="1861,664,1912,691"/>
+<area shape="rect" id="node31" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#aa38d2fb520fb93c01c2f8d2a57cd71d1" title=" " alt="" coords="1585,584,1723,640"/>
+<area shape="rect" id="node34" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#a3612c3fad90c2ab3065cfe39e627b950" title=" " alt="" coords="1811,765,1962,821"/>
+<area shape="rect" id="node36" href="$tests_2unit_2core_2builder_2compiler_2cxx_2gcc_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="1861,715,1912,741"/>
+<area shape="rect" id="node35" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#ae0aa879aa0e368ce8bb84a73bfaac4df" title=" " alt="" coords="1589,715,1719,771"/>
+<area shape="rect" id="node41" href="$tests_2unit_2core_2validator_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="1629,365,1679,392"/>
+<area shape="rect" id="node42" href="$namespacepoac_1_1core_1_1validator.html#a997c4c7bfd9a2c82af6cea12c5d2e78c" title=" " alt="" coords="1819,387,1955,429"/>
+</map>

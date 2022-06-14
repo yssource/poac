@@ -1,0 +1,8 @@
+<map id="semver::exception" name="semver::exception">
+<area shape="rect" id="node1" title=" " alt="" coords="321,131,448,311"/>
+<area shape="rect" id="node3" href="$structsemver_1_1invalid__interval__error.html" title=" " alt="" coords="5,388,172,568"/>
+<area shape="rect" id="node4" href="$structsemver_1_1redundant__interval__error.html" title=" " alt="" coords="196,359,373,597"/>
+<area shape="rect" id="node5" href="$structsemver_1_1strange__interval__error.html" title=" " alt="" coords="398,388,571,568"/>
+<area shape="rect" id="node6" href="$structsemver_1_1version__error.html" title=" " alt="" coords="595,388,742,568"/>
+<area shape="rect" id="node2" title=" " alt="" coords="334,5,435,83"/>
+</map>

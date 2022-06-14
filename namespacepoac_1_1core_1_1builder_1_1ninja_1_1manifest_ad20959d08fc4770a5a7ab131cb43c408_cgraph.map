@@ -1,0 +1,52 @@
+<map id="poac::core::builder::ninja::manifest::create" name="poac::core::builder::ninja::manifest::create">
+<area shape="rect" id="node1" title=" " alt="" coords="5,130,159,171"/>
+<area shape="rect" id="node2" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1manifest.html#afe2d7eac029690d74c199acceb2b1e94" title=" " alt="" coords="207,130,377,171"/>
+<area shape="rect" id="node3" href="$classpoac_1_1core_1_1builder_1_1ninja_1_1syntax_1_1_writer.html#ac1275a581d09afb8aedd32c980a75bc6" title=" " alt="" coords="449,15,588,71"/>
+<area shape="rect" id="node6" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1manifest.html#a521bea7d51a7bffea53954a98acb603e" title=" " alt="" coords="425,94,612,135"/>
+<area shape="rect" id="node7" href="$namespacepoac_1_1core_1_1builder_1_1ninja_1_1manifest.html#a82dcbfe09645df672f6029d5d97c40e4" title=" " alt="" coords="442,159,595,215"/>
+<area shape="rect" id="node11" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#ad3611297d7c7df837d85118940984af8" title=" " alt="" coords="455,303,582,359"/>
+<area shape="rect" id="node4" href="$namespacepoac_1_1util_1_1pretty.html#a151a5ee14bf6049bedcc834b5bd5ce5a" title=" " alt="" coords="676,22,787,63"/>
+<area shape="rect" id="node5" href="$namespacepoac_1_1util_1_1misc.html#a6aa439e9a66967c00da05131059afdb0" title=" " alt="" coords="859,29,997,56"/>
+<area shape="rect" id="node8" href="$namespacepoac_1_1core_1_1resolver.html#a897a0100c38f2c6441f5851ddb7f874c" title=" " alt="" coords="662,155,801,197"/>
+<area shape="rect" id="node9" href="$namespacepoac_1_1config_1_1path.html#ad125929548bc73626df856693457939d" title=" " alt="" coords="867,90,989,131"/>
+<area shape="rect" id="node10" href="$namespacepoac_1_1core_1_1resolver.html#aa0d54563985835eb8674c74e256b0284" title=" " alt="" coords="861,155,995,197"/>
+<area shape="rect" id="node12" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#aa8e1259ff417849a1444098ef4f2d88f" title=" " alt="" coords="660,608,803,664"/>
+<area shape="rect" id="node17" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#a7db4d7a49c0b855f38a9f4a2b00ed148" title=" " alt="" coords="668,239,795,295"/>
+<area shape="rect" id="node26" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx.html#a017add220f93c3ed58a152e6d0940de1" title=" " alt="" coords="668,376,795,432"/>
+<area shape="rect" id="node13" href="$namespacepoac_1_1util_1_1misc.html#a8d71a40504265c25b4e521e815becc82" title=" " alt="" coords="851,681,1005,708"/>
+<area shape="rect" id="node14" href="$namespacepoac_1_1util_1_1shell.html#a84cd6b4f91b94e5643cae862731d55a1" title=" " alt="" coords="872,615,984,657"/>
+<area shape="rect" id="node15" href="$classpoac_1_1util_1_1shell_1_1_cmd.html#ab61a3355d6f598651a20efc13e36d98d" title=" " alt="" coords="1345,470,1457,511"/>
+<area shape="rect" id="node16" href="$structpoac_1_1util_1_1shell_1_1_cmd_1_1_simple_result.html#a09ecd445dd7026e43eaa48af23f4dc21" title=" " alt="" coords="1063,615,1233,657"/>
+<area shape="rect" id="node18" href="$main_8cc.html#a92137b79fa744afc4689df033c0e94a6" title=" " alt="" coords="903,245,953,272"/>
+<area shape="rect" id="node19" href="$main_8cc.html#a7e007270b25be7fa63991c8a87cef34b" title=" " alt="" coords="1099,197,1197,224"/>
+<area shape="rect" id="node20" href="$main_8cc.html#ab9c7b52ffa69b1297b7bdead7ce1dafc" title=" " alt="" coords="1091,248,1205,275"/>
+<area shape="rect" id="node21" href="$namespacetermcolor2.html#a72850175de8487443fcd760b421df159" title=" " alt="" coords="1310,189,1491,216"/>
+<area shape="rect" id="node24" href="$namespacetermcolor2.html#a6e0acf376dee20020795f4141e97c8be" title=" " alt="" coords="1337,241,1464,282"/>
+<area shape="rect" id="node22" href="$classtermcolor2_1_1details_1_1_color_mode.html#a357617699037ed4495df8845e1172c81" title=" " alt="" coords="1571,183,1716,225"/>
+<area shape="rect" id="node23" href="$classtermcolor2_1_1details_1_1_color_mode.html#af4f9784f7fb813f13d0a220e062cbc71" title=" " alt="" coords="1580,118,1707,159"/>
+<area shape="rect" id="node25" href="$classtermcolor2_1_1details_1_1_color_mode.html#a6da6e9689df6558c460728e703a7721f" title=" " alt="" coords="1559,249,1728,290"/>
+<area shape="rect" id="node27" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#ae117ac30a553ed265fee6face945a0b8" title=" " alt="" coords="859,536,997,592"/>
+<area shape="rect" id="node39" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#aa38d2fb520fb93c01c2f8d2a57cd71d1" title=" " alt="" coords="859,296,997,352"/>
+<area shape="rect" id="node47" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#ae0aa879aa0e368ce8bb84a73bfaac4df" title=" " alt="" coords="863,376,993,432"/>
+<area shape="rect" id="node50" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1error.html#a1419c7275c61574c47f7fb9b86ad9051" title=" " alt="" coords="865,456,991,512"/>
+<area shape="rect" id="node28" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#a64b9ee0dc09150a381904d6a3878e937" title=" " alt="" coords="1053,535,1243,591"/>
+<area shape="rect" id="node29" href="$classpoac_1_1util_1_1shell_1_1_cmd.html#ac19f3c6302f6f3b9396b32fd36e3cb9c" title=" " alt="" coords="1337,614,1464,655"/>
+<area shape="rect" id="node30" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1apple__clang.html#a46b511311f5dcd34e7777f3b6e506cc2" title=" " alt="" coords="1291,535,1511,591"/>
+<area shape="rect" id="node31" href="$namespacesemver.html#a3db6fc59585d6cae580fb54e51d52a90" title=" " alt="" coords="1592,445,1695,472"/>
+<area shape="rect" id="node32" href="$structsemver_1_1_parser.html#a928170d4a3989f24f7fc83f0f15dafd1" title=" " alt="" coords="1776,493,1933,520"/>
+<area shape="rect" id="node33" href="$namespacepoac_1_1cmd_1_1build.html#ae1119d4279f63754f9bb26e0f4c58383" title=" " alt="" coords="1981,493,2128,520"/>
+<area shape="rect" id="node34" href="$structsemver_1_1_parser.html#a83c0e0974c5424ec72ad341bf46da041" title="Parse a dot, then a numeric." alt="" coords="1988,545,2121,586"/>
+<area shape="rect" id="node35" href="$structsemver_1_1_parser.html#a1040f6613cce53c1fc6b7701354f2aaa" title="Parse a single numeric." alt="" coords="2176,581,2337,608"/>
+<area shape="rect" id="node36" href="$structsemver_1_1_parser.html#a35b4ab644010f8864ef0a0cd35137c3b" title=" " alt="" coords="1985,662,2124,703"/>
+<area shape="rect" id="node37" href="$structsemver_1_1_parser.html#ac3d15f02b9d654199b5fff933a85825f" title=" " alt="" coords="1988,376,2121,403"/>
+<area shape="rect" id="node38" href="$structsemver_1_1_parser.html#a538b1f82f65f3bfd70bed255312afafa" title="Skip whitespace if present." alt="" coords="1985,427,2124,469"/>
+<area shape="rect" id="node40" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#aac6fb1da9785ab4725d13bea144c7399" title=" " alt="" coords="1073,311,1223,367"/>
+<area shape="rect" id="node41" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1clang.html#afb1255b53fdfa63e7036e44c78040641" title=" " alt="" coords="1309,311,1492,367"/>
+<area shape="rect" id="node42" href="$namespacepoac_1_1cmd_1_1search.html#ad77a2e301a46e16d317d2971c8b3bc5c" title=" " alt="" coords="1577,318,1709,359"/>
+<area shape="rect" id="node43" href="$namespacepoac_1_1util_1_1pretty.html#a746e801f680321198fe0004fa0d5939d" title=" " alt="" coords="1799,219,1910,261"/>
+<area shape="rect" id="node44" href="$namespacepoac_1_1util_1_1verbosity.html#a15ae93d0b3bace6aed3eac9b2beba1fe" title=" " alt="" coords="1789,285,1920,326"/>
+<area shape="rect" id="node45" href="$namespacepoac_1_1util_1_1net_1_1api.html#a4ff365e7b4cabb4a861f817badc18aa3" title=" " alt="" coords="1795,350,1915,391"/>
+<area shape="rect" id="node46" href="$namespacepoac_1_1util_1_1net_1_1api.html#af6aee595e96e4bdb8339e398f76cefca" title=" " alt="" coords="1995,310,2115,351"/>
+<area shape="rect" id="node48" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#a3612c3fad90c2ab3065cfe39e627b950" title=" " alt="" coords="1073,391,1223,447"/>
+<area shape="rect" id="node49" href="$namespacepoac_1_1core_1_1builder_1_1compiler_1_1cxx_1_1gcc.html#a6fe6a1f712231c9a6a7e2552af95a8fc" title=" " alt="" coords="1309,391,1492,447"/>
+</map>
