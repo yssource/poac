@@ -80,7 +80,7 @@ Usage</h2>
 <h3><a class="anchor" id="autotoc_md4"></a>
 Start a new project with Poac</h3>
 <p >Use this command when you start a new poac project.</p>
-<div class="fragment"><div class="line">poac:~$ poac create hello_world</div>
+<div class="fragment"><div class="line">you:~$ poac create hello_world</div>
 <div class="line">     Created binary (application) `hello_world` package</div>
 </div><!-- fragment --><blockquote class="doxtable">
 <p ><b>Note</b>: If you want to integrate your existing project with Poac, use the <code>init</code> command:</p>
@@ -91,13 +91,13 @@ Start a new project with Poac</h3>
 <h3><a class="anchor" id="autotoc_md5"></a>
 Build the project</h3>
 <p >In most cases, you will want to execute a binary as well as build the project—of course, you can.</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac run</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac run</div>
 <div class="line">   Compiling 1/1: hello_world v0.1.0 (/Users/poac/hello_world)</div>
 <div class="line">    Finished debug target(s) in 0.90s</div>
 <div class="line">     Running `/Users/poac/hello_world/poac_output/debug/hoge`</div>
 <div class="line">Hello, world!</div>
 </div><!-- fragment --><p >Should you just build it, run the <code>build</code> command:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac build</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac build</div>
 <div class="line">    Finished debug target(s) in 0.21s</div>
 </div><!-- fragment --><p >Poac uses a cache since we executed the command with no changes.</p>
 <h3><a class="anchor" id="autotoc_md6"></a>
@@ -113,7 +113,7 @@ Install dependencies</h3>
 <div class="line">&quot;boost/bind&quot; = &quot;1.66.0&quot;</div>
 </div><!-- fragment --> </blockquote>
 <p>After editing <code>poac.toml</code>, executing the <code>build</code> command will install the package and its dependencies.</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac build</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac build</div>
 <div class="line">   Resolving dependencies ...</div>
 <div class="line"> Downloading packages ...</div>
 <div class="line">  Downloaded boost/bind v1.66.0</div>
@@ -136,7 +136,7 @@ Install dependencies</h3>
 <div class="line">}</div>
 <div class="ttc" id="amain_8cc_html_a638b85ceffac097c2aa79b76ba8c055e"><div class="ttname"><a href="main_8cc.html#a638b85ceffac097c2aa79b76ba8c055e">main</a></div><div class="ttdeci">int main(const int argc, char *argv[])</div><div class="ttdef"><b>Definition:</b> <a href="main_8cc_source.html#l00162">main.cc:162</a></div></div>
 </div><!-- fragment --><p >You can now run this source code:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac run</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac run</div>
 <div class="line">   Compiling 1/1: hello_world v0.1.0 (/Users/poac/hello_world)</div>
 <div class="line">    Finished debug target(s) in 0.50s</div>
 <div class="line">     Running `/Users/poac/hello_world/poac_output/debug/hello_world`</div>
@@ -147,11 +147,11 @@ Install dependencies</h3>
 <h3><a class="anchor" id="autotoc_md7"></a>
 Create a dependency graph</h3>
 <p >You can create a dependency graph by using the <code>graph</code> command:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac graph -o out.png</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac graph -o out.png</div>
 <div class="line">   Generated out.png</div>
 </div><!-- fragment --><p ><img src="https://user-images.githubusercontent.com/26405363/173274015-9fd4869d-94cf-4667-b07f-8e9fd94a02a6.png" alt="Dependency Graph" class="inline"/></p>
 <p >Or you can export the graph as a <code>.dot</code> file:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac graph -o out.dot</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac graph -o out.dot</div>
 <div class="line">   Generated out.dot</div>
 </div><!-- fragment --><div class="fragment"><div class="line">digraph G {</div>
 <div class="line">0[label=&quot;boost/bind: 1.66.0&quot;];</div>
@@ -168,7 +168,7 @@ Create a dependency graph</h3>
 <p ><b>Note</b>: When you want to export the graph as a <code>.png</code> file, please ensure <code>graphviz</code> is installed. </p>
 </blockquote>
 <p>If you omit specifying the output path, then Poac emits the graph to standard output:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac graph</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac graph</div>
 <div class="line">boost/bind -&gt; boost/core</div>
 <div class="line">boost/bind -&gt; boost/config</div>
 <div class="line">boost/core -&gt; boost/assert</div>
@@ -177,7 +177,7 @@ Create a dependency graph</h3>
 </div><!-- fragment --><h3><a class="anchor" id="autotoc_md8"></a>
 Run linter</h3>
 <p >Linting source code is essential to protect its quality. Poac supports linting it by a simple command with <code>cpplint</code>:</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac lint</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac lint</div>
 <div class="line">     Linting poac</div>
 <div class="line">src/main.cpp:0:  No copyright message found.  You should have a line: &quot;Copyright [year] &lt;Copyright Owner&gt;&quot;  [legal/copyright] [5]</div>
 <div class="line">Done processing src/main.cpp</div>
@@ -192,7 +192,7 @@ Run linter</h3>
 <h3><a class="anchor" id="autotoc_md9"></a>
 Run formatter</h3>
 <p >Poac also supports formatting your source code with <code>clang-format</code>. Ensure having installed <code>clang-format</code> before running this command.</p>
-<div class="fragment"><div class="line">poac:~/hello_world$ poac fmt</div>
+<div class="fragment"><div class="line">you:~/hello_world$ poac fmt</div>
 <div class="line">  Formatting poac</div>
 </div><!-- fragment --><blockquote class="doxtable">
 <p ><b>Note</b>: This command automatically detects what files we need to format to avoid bothering commands like:</p>
